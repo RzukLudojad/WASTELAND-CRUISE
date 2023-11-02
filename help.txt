@@ -1,0 +1,32 @@
+-----------------------------------------------------------------------------------------------
+Welcome to WASTELAND CRUISE!
+
+WASTLEAND CRUISE is a post-apocalyptic, text-based RPG game.
+To have an access to a short list of basic commends ingame, simply write "help"
+while playing. The rest of the commands will be displayed during the game in the
+form of tips (they are blue-coloured)
+
+STATS
+While creating character, you'll have to dispose four different statistic.
+Each has a direct influence on game mechanics:
+
+STRENGTH - Increases your damage during a fight
+HEALTH - Increases your total Health Points
+INTELLIGENCE - Increases experience gained from fighting
+DEXTERITY - Increases your chance of successful escape when faced with an enemy
+
+With each level, you'll be granted one point to dispose. To level up you simply
+need to gain a sufficient amount of experience:
+
+2 lvl - 25 exp
+3 lvl - 70 exp
+4 lvl - 130 exp
+5 lvl - 200 exp
+
+You can gain experience from: fighting, escaping enemies, finishing quests, playing coin toss.
+You will also gain a small amount of experience points for meeting new npc's.
+
+-----------------------------------------------------------------------------------------------
+  IF YOUR TERMINAL ISN'T BIG ENOUGH FOR YOU TO SEE EVERYTHING, SCROLL UP EVERYTIME A LARGER
+           AMOUNT OF STUFF IS PRINTED AT ONCE TO MAKE SURE YOU DIDN'T MISS ANYTHING.
+-----------------------------------------------------------------------------------------------
